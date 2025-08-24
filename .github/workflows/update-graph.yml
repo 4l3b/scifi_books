@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,4 +32,4 @@ jobs:
           git config user.email "actions@github.com"
           git add docs/graph.png
           git commit -m "Update graph" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/4l3b/scifi_books.git HEAD:main
+          git push
