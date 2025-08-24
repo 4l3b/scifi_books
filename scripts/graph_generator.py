@@ -58,4 +58,4 @@ for i, row in enumerate(df.itertuples()):
 
 plt.tight_layout()
 
-plt.savefig("docs/graph.png")
+plt.savefig("docs/graph.png", dpi=300)
