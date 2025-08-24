@@ -1,0 +1,33 @@
+name: Update Graph
+
+on:
+  push:
+    paths:
+      - 'data/book_list.json'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas seaborn matplotlib numpy
+
+      - name: Generate graph
+        run: python scripts/graph_generator.py
+
+      - name: Commit and push updated graph
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/graph.png
+          git commit -m "Update graph" || echo "No changes to commit"
+          git push
