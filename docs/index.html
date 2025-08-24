@@ -3,26 +3,62 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sci-fi reading tracker </title>
+  <title>Sci-fi Reading Tracker</title>
   <style>
+    /* Background e stile generale */
     body {
-      font-family: sans-serif;
+      font-family: 'Courier New', Courier, monospace;
       margin: 2rem;
-      background: #f8f9fa;
+      background: linear-gradient(to bottom, #121212, #1c1c1c);
+      color: #a0f0d0;
       text-align: center;
     }
+
+    h1 {
+      font-size: 2rem;
+      color: #a0f0d0;
+      text-shadow: 0 0 4px #70c0a0;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #c0e0b0;
+      line-height: 1.4;
+    }
+
+    a {
+      color: #70c0a0;        /* verde/azzurro chiaro, leggibile sullo sfondo scuro */
+      text-decoration: underline; /* opzionale: sottolineatura per chiarezza */
+    }
+
+    a:hover {
+      color: #a0f0d0;       /* leggero cambio colore al passaggio del mouse */
+    }
+
     img {
       max-width: 100%;
       height: auto;
-      border-radius: 12px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      border: 1px solid #70c0a0;
+      border-radius: 8px;
+      box-shadow: 0 0 8px #70c0a0;
+      margin-top: 1.5rem;
     }
+
+    code {
+      background: rgba(112,192,160,0.1);
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-family: 'Courier New', monospace;
+    }
+
+    /* Media query per mobile */
     @media (max-width: 600px) {
       body {
         margin: 1rem;
       }
       h1 {
-        font-size: 1.4rem;
+        font-size: 1.5rem;
       }
       p {
         font-size: 0.9rem;
@@ -31,9 +67,9 @@
   </style>
 </head>
 <body>
-  <h1>Sci-fi Reading Tracker</h1>
-  <p>This chart updates automatically whenever I add or rate a book in <code>libri.json</code>.</p>
+  <h1>Sci-Fi Reading Tracker</h1>
+  <p>This chart updates automatically whenever I add or rate a book in <a href="https://github.com/4l3b/scifi_books/blob/main/data/book_list.json" target="_blank" rel="noopener noreferrer"><code>book_list.json</code></a>.</p>
   <p>It’s a personal log of science fiction novels I’ve been reading.</p>
-  <img src="graph.png" alt="Chart of my sci-fi books and ratings">
+  <img src="graph.png" alt="Chart of the sci-fi books I've read and ratings">
 </body>
 </html>
