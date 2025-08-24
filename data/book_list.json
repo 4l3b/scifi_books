@@ -1,1 +1,51 @@
-
+[
+  {
+    "titolo": "L'isola abitata",
+    "autore": "Arkady e Boris Strugatsky",
+    "anno": 1971,
+    "saga": "Universo di mezzogiorno",
+    "voto": 2
+  },
+  {
+    "titolo": "Ma gli androidi sognano pecore elettriche?",
+    "autore": "Philip K. Dick",
+    "anno": 1968,
+    "saga": null,
+    "voto": 3.75
+  },
+  {
+    "titolo": "Destinazione stelle",
+    "autore": "Alfred Bester",
+    "anno": 1956,
+    "saga": null,
+    "voto": 2.5
+  },
+  {
+    "titolo": "L'uomo di Marte",
+    "autore": "Andy Weir",
+    "anno": 2011,
+    "saga": null,
+    "voto": 4.5
+  },
+  {
+    "titolo": "Le sirene di Titano",
+    "autore": "Kurt Vonnegut",
+    "anno": 1959,
+    "saga": null,
+    "voto": 1
+  },
+  {
+    "titolo": "Hyperion",
+    "autore": "Dan Simmons",
+    "anno": 1989,
+    "saga": "I canti di Hyperion",
+    "voto": 4
+  },
+  {
+    "titolo": "La caduta di Hyperion",
+    "autore": "Dan Simmons",
+    "anno": 1990,
+    "saga": "I canti di Hyperion",
+    "voto": null
+  }
+]
