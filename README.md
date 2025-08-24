@@ -25,7 +25,7 @@ Books are displayed like this:
 
 ## Live chart
 
-Check the live tracker on [GitHub Pages](https://4l3b.github.io/scifi_books/)**
+Check the live tracker on **[GitHub Pages](https://4l3b.github.io/scifi_books/)**
 
 ---
 
