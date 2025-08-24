@@ -17,8 +17,8 @@ The chart is rebuilt by GitHub Actions whenever the JSON file changes, and it is
 
 Books are displayed like this:
 
-- **Title** + author and year on the left
-- **Rating** as a horizontal bar (0–5 scale)
+- Title + author and year on the left
+- Rating as a horizontal bar (0–5 scale)
 - Missing ratings are marked in red as *“Voto mancante”* ('Missing rating')
 
 ---
