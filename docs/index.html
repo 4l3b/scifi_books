@@ -44,9 +44,25 @@
       padding: 6px;
     }
 
+    .chart-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+
+    .chart-container img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #70c0a0;
+      border-radius: 8px;
+      box-shadow: 0 0 4px #70c0a0;
+      padding: 6px;
+      box-sizing: border-box;
+    }
+
     code {
       background: rgba(112,192,160,0.1);
-      padding: 2px 4px;
+      padding: 1px 4px;
       border-radius: 4px;
       font-family: 'Courier New', monospace;
     }
@@ -71,7 +87,9 @@
   <p>The plot updates automatically whenever I add a new book or update a rating in 
    <a href="https://github.com/4l3b/scifi_books/blob/main/data/book_list.json" target="_blank" rel="noopener noreferrer">
      <code>book_list.json</code></a>.</p>
-  <img src="graph.png" alt="Chart of the sci-fi books I've read and ratings">
+  <div class="chart-container">
+    <img src="graph.png" alt="Chart of the sci-fi books I've read and ratings">
+  </div>
   
   <footer style="margin-top: 1rem; font-size: 0.8rem; color: #c0e0b0;">
     &copy; 2025 Alessandro Bigolin
