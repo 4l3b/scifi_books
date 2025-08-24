@@ -40,7 +40,7 @@ plt.ylabel('')
 plt.title('')
 
 for i, row in enumerate(df.itertuples()):
-    ax.text(-0.02, i-0.15, row.titolo, va='center', ha='right', fontsize=10, color='#B2EED2', transform=ax.get_yaxis_transform())
+    ax.text(-0.02, i-0.15, row.titolo, va='center', ha='right', fontsize=10, color='#a0f0d0', transform=ax.get_yaxis_transform())
     ax.text(-0.02, i+0.2, f"{row.autore} | {row.anno}", va='center', ha='right', fontsize=9, color='#c0e0b0', transform=ax.get_yaxis_transform())
 
 for i, row in enumerate(df.itertuples()):
