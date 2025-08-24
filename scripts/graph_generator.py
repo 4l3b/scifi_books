@@ -8,7 +8,7 @@ df = pd.read_json("data/book_list.json")
 df = df.sort_values(by=['voto', 'titolo'], ascending=[False, True], na_position='last')
 
 altezza = max(3.5, 0.6 * len(df))
-plt.figure(figsize=(9, altezza), facecolor="'121212')
+plt.figure(figsize=(9, altezza), facecolor='#121212')
 sns.set_style("whitegrid")
 
 ax = sns.barplot(
