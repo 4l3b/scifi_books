@@ -4,7 +4,7 @@ This project tracks the science fiction books I've read, along with a personal r
 
 The book information is stored in a JSON file (`data/book_list.json`). A bar chart is generated from this data using a Python script with Seaborn + Matplotlib.
 
-The chart is automatically rebuilt via GitHub Actions whenever the JSON file changes, and it is published on GitHub Pages.
+The chart is automatically rebuilt via a GitHub Actions workflow whenever the JSON file changes, and it is published on GitHub Pages.
 
 ---
 
