@@ -3,8 +3,7 @@
 This project tracks the science fiction books I've read, along with a personal rating from 0 to 5 that I've assigned to each of them.
 
 The book information is stored in a JSON file (`data/book_list.json`). A bar chart is generated from this data using a Python script with Seaborn + Matplotlib.
-
-The chart is automatically rebuilt via a GitHub Actions workflow whenever the JSON file changes, and it is published on GitHub Pages.
+The chart is automatically rebuilt via a GitHub Actions workflow whenever the JSON file changes, and it is published on GitHub Pages along with a minimal HTML page.
 
 ---
 
@@ -13,7 +12,7 @@ The chart is automatically rebuilt via a GitHub Actions workflow whenever the JS
 - **Data** → `data/book_list.json` contains the list of books with title, author, year, saga, and rating (0–5)
 - **Script** → `scripts/graph_generator.py` reads the JSON, sorts the data, and generates a chart with Seaborn + Matplotlib
 - **Automation** → `.github/workflows/update-graph.yml` runs the script on every push that modifies the JSON
-- **Output** → the updated chart (`docs/graph.png`) is published on GitHub Pages along with a minimal HTML page
+- **Output** → the updated chart (`docs/graph.png`) is published on GitHub Pages
 
 
 Books are displayed like this:
