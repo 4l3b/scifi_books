@@ -1,6 +1,6 @@
 # Sci-Fi Reading Tracker
 
-This project tracks the science fiction books I read, along with a personal rating from 0 to 5 that I assigned to each of them.
+This project tracks the science fiction books I've read, along with a personal rating from 0 to 5 that I've assigned to each of them.
 
 The book information is stored in a JSON file (`data/book_list.json`). A bar chart is generated from this data using a Python script with Seaborn + Matplotlib.
 
