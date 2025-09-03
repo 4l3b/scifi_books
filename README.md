@@ -12,14 +12,14 @@ The chart is automatically rebuilt via a GitHub Actions workflow whenever the JS
 - **Data** → `data/book_list.json` contains the list of books with title, author, year, saga, and rating (0–5)
 - **Script** → `scripts/graph_generator.py` reads the JSON, sorts the data, and generates a chart with Seaborn
 - **Automation** → `.github/workflows/update-graph.yml` runs the script on every push that modifies the JSON
-- **Output** → the updated chart (`docs/graph.png`) is included in a GitHub Pages site, rendered through (`docs/index.html`)
+- **Output** → the updated chart (`docs/graph.png`) is included in a GitHub Pages site, rendered through `docs/index.html`
 
 
 Books are displayed like this:
 
-- Title + author and year on the left
+- Title, author, and year on the left
 - Rating as a horizontal bar (0–5 scale)
-- Missing ratings are marked in red as *“Voto mancante”* ('Missing rating')
+- Missing ratings are marked in red as *"Voto mancante"* ('Missing rating')
 
 ---
 
