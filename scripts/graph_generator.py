@@ -40,8 +40,8 @@ plt.ylabel('')
 plt.title('')
 
 for i, row in enumerate(df.itertuples()):
-    ax.text(-0.02, i-0.15, row.titolo, va='center', ha='right', fontsize=10, color='#a0f0d0', transform=ax.get_yaxis_transform())
-    ax.text(-0.02, i+0.2, f"{row.autore} | {row.anno}", va='center', ha='right', fontsize=9, color='#c0e0b0', transform=ax.get_yaxis_transform())
+    ax.text(-0.02, i-0.15, row.titolo, va='center', ha='right', fontname='Courier New', fontsize=10, color='#a0f0d0', transform=ax.get_yaxis_transform())
+    ax.text(-0.02, i+0.2, f"{row.autore} | {row.anno}", va='center', ha='right', fontname='Courier New', fontsize=9, color='#c0e0b0', transform=ax.get_yaxis_transform())
 
 for i, row in enumerate(df.itertuples()):
     if pd.notna(row.voto):
@@ -52,9 +52,9 @@ for i, row in enumerate(df.itertuples()):
             label = f"{val:.1f}".replace('.', ',')
         else:
             label = f"{val:.2f}".replace('.', ',')
-        ax.text(val + 0.1, i + 0.05, label, va='center', fontsize=10, color='#a0f0d0')
+        ax.text(val + 0.1, i + 0.05, label, va='center', fontname='Courier New', fontsize=10, color='#a0f0d0')
     else:
-        ax.text(0.1, i, "Voto mancante", va='center', fontsize=10, color='red')
+        ax.text(0.1, i, "Voto mancante", va='center', fontname='Courier New', fontsize=10, color='red')
 
 plt.tight_layout()
 
