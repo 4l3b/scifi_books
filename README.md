@@ -10,9 +10,9 @@ The chart is automatically rebuilt via a GitHub Actions workflow whenever the JS
 ## How it works
 
 - **Data** → `data/book_list.json` contains the list of books with title, author, year, saga, and rating (0–5)
-- **Script** → `scripts/graph_generator.py` reads the JSON, sorts the data, and generates a chart with Seaborn + Matplotlib
+- **Script** → `scripts/graph_generator.py` reads the JSON, sorts the data, and generates a chart with Seaborn
 - **Automation** → `.github/workflows/update-graph.yml` runs the script on every push that modifies the JSON
-- **Output** → the updated chart (`docs/graph.png`) is published on GitHub Pages
+- **Output** → the updated chart (`docs/graph.png`) is published on GitHub Pages the updated chart (`docs/graph.png`) is included in a GitHub Pages site, rendered through (`docs/index.html`)
 
 
 Books are displayed like this:
