@@ -17,8 +17,8 @@ The chart is automatically rebuilt via a GitHub Actions workflow whenever the JS
 
 Books are displayed like this:
 
-- Title, author, and year on the left
-- Rating as a horizontal bar (0–5 scale)
+- **Title** (in Italian), **author**, and **year** on the left
+- **Rating** as a horizontal bar (0–5 scale)
 - Missing ratings are marked in red as *"Voto mancante"* ('Missing rating')
 
 ---
