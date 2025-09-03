@@ -1,5 +1,12 @@
 [
   {
+    "titolo": "Solaris",
+    "autore": "Stanisław Lem",
+    "anno": 1969,
+    "saga": null,
+    "voto": 4.5
+  },
+  {
     "titolo": "L'isola abitata",
     "autore": "Arkady e Boris Strugatsky",
     "anno": 1971,
@@ -46,6 +53,6 @@
     "autore": "Dan Simmons",
     "anno": 1990,
     "saga": "I canti di Hyperion",
-    "voto": null
+    "voto": 4.25
   }
 ]
