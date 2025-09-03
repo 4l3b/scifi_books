@@ -54,5 +54,12 @@
     "anno": 1990,
     "saga": "I canti di Hyperion",
     "voto": 4.25
+  },
+  {
+    "titolo": "Il crepuscolo della Terra",
+    "autore": "C. J. Cherryh",
+    "anno": 1981,
+    "saga": null,
+    "voto": null
   }
 ]
