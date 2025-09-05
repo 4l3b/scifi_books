@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_json("libri_scifi.json")
+df = pd.read_json("data/book_list.json")
 
 df = df.sort_values(by=['voto', 'titolo'], ascending=[False, True], na_position='last')
 
