@@ -60,4 +60,4 @@ for i, row in enumerate(df.itertuples()):
         ax.text(0.1, i, "Voto mancante", va='center', fontfamily='DejaVu Sans Mono', fontsize=9, color='red')
 
 plt.tight_layout()
-plt.savefig("graph.png", dpi=300)
+plt.savefig("docs/graph.png", dpi=300)
