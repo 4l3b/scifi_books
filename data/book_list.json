@@ -61,5 +61,13 @@
     "anno": 1981,
     "saga": null,
     "voto": 2.5
+  },
+  {
+    "titolo": "Project Hail Mary",
+    "autore": "Andy Weir",
+    "anno": 2021,
+    "saga": null,
+    "voto": 4.5
   }
+  
 ]
