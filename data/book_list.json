@@ -75,5 +75,12 @@
     "anno": 1962,
     "saga": null,
     "voto": 2.75
+  },
+  {
+    "titolo": "Endymion",
+    "autore": "Dan Simmons",
+    "anno": 1995,
+    "saga": "I canti di Hyperion",
+    "voto": null
   }
 ]
