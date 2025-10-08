@@ -84,17 +84,17 @@
     "voto": 4.5
   },
   {
-    "titolo": "Il risveglio di Endymion",
-    "autore": "Dan Simmons",
-    "anno": 1997,
-    "saga": "I canti di Hyperion",
-    "voto": null
-  },
-  {
     "titolo": "La porta dell'infinito",
     "autore": "Frederik Pohl",
     "anno": 1777,
     "saga": "Il ciclo degli Heechee",
+    "voto": 0.5
+  },
+  {
+    "titolo": "Il risveglio di Endymion",
+    "autore": "Dan Simmons",
+    "anno": 1997,
+    "saga": "I canti di Hyperion",
     "voto": null
   }
 ]
