@@ -95,6 +95,13 @@
     "autore": "Dan Simmons",
     "anno": 1997,
     "saga": "I canti di Hyperion",
+    "voto": 4
+  },
+  {
+    "titolo": "Gli orfani di Helix",
+    "autore": "Dan Simmons",
+    "anno": 1999,
+    "saga": "I canti di Hyperion",
     "voto": null
   }
 ]
