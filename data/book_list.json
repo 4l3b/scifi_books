@@ -103,5 +103,12 @@
     "anno": 1999,
     "saga": "I canti di Hyperion",
     "voto": 2.75
+  },
+  {
+    "titolo": "L'atlante delle nuvole",
+    "autore": "David Mitchell",
+    "anno": 2004,
+    "saga": null,
+    "voto": 0
   }
 ]
