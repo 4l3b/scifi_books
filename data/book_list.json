@@ -124,5 +124,12 @@
     "anno": 2015,
     "saga": "I figli del tempo",
     "voto": 3
+  },
+  {
+    "titolo": "City",
+    "autore": "Clifford D. Simak",
+    "anno": 1952,
+    "saga": null,
+    "voto": 1
   }
 ]
