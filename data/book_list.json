@@ -138,5 +138,12 @@
     "anno": 1980,
     "saga": "Il libro del Nuovo Sole",
     "voto": 2.25
+  },
+  {
+    "titolo": "Il pianeta del silenzio",
+    "autore": "Stanisław Lem",
+    "anno": 1986,
+    "saga": null,
+    "voto": null
   }
 ]
