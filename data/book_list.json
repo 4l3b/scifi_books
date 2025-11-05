@@ -4,7 +4,7 @@
     "autore": "Stanisław Lem",
     "anno": 1969,
     "saga": null,
-    "voto": 4.5
+    "voto": 4.75
   },
   {
     "titolo": "L'isola abitata",
@@ -67,7 +67,7 @@
     "autore": "Andy Weir",
     "anno": 2021,
     "saga": null,
-    "voto": 4.5
+    "voto": 4.75
   },
   {
     "titolo": "Il lungo meriggio della Terra",
@@ -81,7 +81,7 @@
     "autore": "Dan Simmons",
     "anno": 1995,
     "saga": "I canti di Hyperion",
-    "voto": 4.5
+    "voto": 4.75
   },
   {
     "titolo": "La porta dell'infinito",
@@ -144,6 +144,6 @@
     "autore": "Stanisław Lem",
     "anno": 1986,
     "saga": null,
-    "voto": 2.25
+    "voto": 2
   }
 ]
