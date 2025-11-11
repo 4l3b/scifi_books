@@ -145,5 +145,12 @@
     "anno": 1986,
     "saga": null,
     "voto": 2
+  },
+  {
+    "titolo": "Rivelazione",
+    "autore": "Alastair Reynolds",
+    "anno": 2000,
+    "saga": "Rivelazione",
+    "voto": 3.25
   }
 ]
