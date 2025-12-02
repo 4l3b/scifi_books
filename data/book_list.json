@@ -166,5 +166,19 @@
     "anno": 2003,
     "saga": "Rivelazione",
     "voto": 4.25
+  },
+  {
+    "titolo": "Quelli che si allontanano da Omelas",
+    "autore": "Ursula K. Le Guin",
+    "anno": 1973,
+    "saga": null,
+    "voto": 4
+  },
+  {
+    "titolo": "Il satellite proibito",
+    "autore": "Algis Budrys",
+    "anno": 1960,
+    "saga": null,
+    "voto": 0.5
   }
 ]
