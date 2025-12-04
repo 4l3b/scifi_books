@@ -187,5 +187,12 @@
     "anno": 1992,
     "saga": "Carlucci",
     "voto": 3.25
+  },
+  {
+    "titolo": "La sentinella",
+    "autore": "Arthur C. Clarke",
+    "anno": 1951,
+    "saga": null,
+    "voto": 2
   }
 ]
