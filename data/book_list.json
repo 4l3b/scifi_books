@@ -172,7 +172,7 @@
     "autore": "Ursula K. Le Guin",
     "anno": 1973,
     "saga": null,
-    "voto": 4
+    "voto": 3.75
   },
   {
     "titolo": "Il satellite proibito",
@@ -194,5 +194,12 @@
     "anno": 1951,
     "saga": null,
     "voto": 2
+  },
+  {
+    "titolo": "Incontro con Rama",
+    "autore": "Arthur C. Clarke",
+    "anno": 1973,
+    "saga": "Rama",
+    "voto": 3.75
   }
 ]
