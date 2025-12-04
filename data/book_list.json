@@ -180,5 +180,12 @@
     "anno": 1960,
     "saga": null,
     "voto": 0.5
+  },
+  {
+    "titolo": "Angelo meccanico",
+    "autore": "Richard Paul Russo",
+    "anno": 1992,
+    "saga": "Carlucci",
+    "voto": 3.25
   }
 ]
