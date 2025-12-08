@@ -151,7 +151,7 @@
     "autore": "Alastair Reynolds",
     "anno": 2000,
     "saga": "Rivelazione",
-    "voto": 3.25
+    "voto": 3.5
   },
   {
     "titolo": "La città del cratere",
@@ -186,7 +186,7 @@
     "autore": "Richard Paul Russo",
     "anno": 1992,
     "saga": "Carlucci",
-    "voto": 3.25
+    "voto": 3.5
   },
   {
     "titolo": "La sentinella",
@@ -201,5 +201,19 @@
     "anno": 1973,
     "saga": "Rama",
     "voto": 3.75
+  },
+  {
+    "titolo": "Le guardie del tramonto",
+    "autore": "Arthur C. Clarke",
+    "anno": 1953,
+    "saga": null,
+    "voto": 3.25
+  },
+  {
+    "titolo": "Piranesi",
+    "autore": "Susanna Clarke",
+    "anno": 2020,
+    "saga": null,
+    "voto": null
   }
 ]
