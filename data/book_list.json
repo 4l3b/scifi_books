@@ -215,5 +215,19 @@
     "anno": 2020,
     "saga": null,
     "voto": 4
+  },
+  {
+    "titolo": "Redemption Ark",
+    "autore": "Alastair Reynolds",
+    "anno": 2002,
+    "saga": "Rivelazione",
+    "voto": 4
+  },
+  {
+    "titolo": "Contact",
+    "autore": "Carl Sagan",
+    "anno": 1985,
+    "saga": null,
+    "voto": null
   }
 ]
