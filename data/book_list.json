@@ -264,5 +264,12 @@
     "anno": 1999,
     "saga": "Zone del pensiero",
     "voto": 0
+  },
+  {
+    "titolo": "Il libro dell'uomo",
+    "autore": "Mike Resnick",
+    "anno": 1982,
+    "saga": "Birthright Universe",
+    "voto": 3.25
   }
 ]
