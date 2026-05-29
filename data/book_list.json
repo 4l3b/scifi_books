@@ -292,5 +292,12 @@
     "anno": 2024,
     "saga": "Rivelazione",
     "voto": 3
+  },
+  {
+    "titolo": "Il ritorno della Demetra",
+    "autore": "Alastair Reynolds",
+    "anno": 2022,
+    "saga": null,
+    "voto": 0.5
   }
 ]
