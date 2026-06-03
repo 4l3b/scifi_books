@@ -299,5 +299,12 @@
     "anno": 2022,
     "saga": null,
     "voto": 0.5
+  },
+  {
+    "titolo": "Dogs of War",
+    "autore": "Adrian Tchaikovsky",
+    "anno": 2017,
+    "saga": Bioforms,
+    "voto": 3.5
   }
 ]
