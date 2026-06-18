@@ -334,5 +334,12 @@
     "anno": 1987,
     "saga": "Il libro del Nuovo Sole",
     "voto": 0.5
+  },
+  {
+    "titolo": "Proiettili lenti",
+    "autore": "Alastair Reynolds",
+    "anno": 2015,
+    "saga": null,
+    "voto": 3.5
   }
 ]
