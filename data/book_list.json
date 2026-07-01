@@ -341,5 +341,19 @@
     "anno": 2015,
     "saga": null,
     "voto": 3.5
+  },
+  {
+    "titolo": "Permafrost",
+    "autore": "Alastair Reynolds",
+    "anno": 2019,
+    "saga": null,
+    "voto": 3.75
+  },
+  {
+    "titolo": "Fiori per Algernon",
+    "autore": "Daniel Keyes",
+    "anno": 1959,
+    "saga": null,
+    "voto": 3.5
   }
 ]
