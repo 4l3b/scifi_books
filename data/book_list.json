@@ -369,5 +369,12 @@
     "anno": 2011,
     "saga": "The Expanse",
     "voto": 2.75
+  },
+  {
+    "titolo": "La terra morente",
+    "autore": "Jack Vance",
+    "anno": 1950,
+    "saga": "Ciclo della Terra morente",
+    "voto": 1.5
   }
 ]
