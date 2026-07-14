@@ -376,5 +376,12 @@
     "anno": 1950,
     "saga": "Ciclo della Terra morente",
     "voto": 1.5
+  },
+  {
+    "titolo": "Ubik",
+    "autore": "Philip K. Dick",
+    "anno": 1969,
+    "saga": null,
+    "voto": 2.75
   }
 ]
