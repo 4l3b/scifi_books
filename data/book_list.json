@@ -404,5 +404,12 @@
     "anno": 1979,
     "saga": "The Faded Sun",
     "voto": 3
+  },
+  {
+    "titolo": "La falce dei cieli",
+    "autore": "Ursula K. Le Guin",
+    "anno": 1971,
+    "saga": null,
+    "voto": 2.75
   }
 ]
