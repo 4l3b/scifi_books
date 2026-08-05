@@ -410,6 +410,13 @@
     "autore": "Ursula K. Le Guin",
     "anno": 1971,
     "saga": null,
-    "voto": 2.75
+    "voto": 2.5
+  },
+  {
+    "titolo": "La porta sull'estate",
+    "autore": "Robert A. Heinlein",
+    "anno": 1957,
+    "saga": null,
+    "voto": 3.75
   }
 ]
