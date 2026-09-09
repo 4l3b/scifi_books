@@ -439,5 +439,12 @@
     "anno": 2008,
     "saga": null,
     "voto": 4.5
+  },
+  {
+    "titolo": "Neuromante",
+    "autore": "William Gibson",
+    "anno": 1984,
+    "saga": "Trilogia dello Sprawl",
+    "voto": 0.5
   }
 ]
