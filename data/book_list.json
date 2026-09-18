@@ -446,5 +446,12 @@
     "anno": 1984,
     "saga": "Trilogia dello Sprawl",
     "voto": 0.5
+  },
+  {
+    "titolo": "Dune",
+    "autore": "Frank Herbert",
+    "anno": 1965,
+    "saga": "Dune",
+    "voto": 4.25
   }
 ]
