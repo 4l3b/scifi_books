@@ -453,5 +453,19 @@
     "anno": 1965,
     "saga": "Dune",
     "voto": 4.25
+  },
+  {
+    "titolo": "Messia di Dune",
+    "autore": "Frank Herbert",
+    "anno": 1969,
+    "saga": "Dune",
+    "voto": 2.5
+  },
+  {
+    "titolo": "Dissipatio H.G.",
+    "autore": "Guido Morselli",
+    "anno": 1977,
+    "saga": null,
+    "voto": 2.75
   }
 ]
