@@ -467,5 +467,47 @@
     "anno": 1977,
     "saga": null,
     "voto": 2.75
+  },
+  {
+    "titolo": "Rapporto di minoranza",
+    "autore": "Philip K. Dick",
+    "anno": 1956,
+    "saga": null,
+    "voto": 3.75
+  },
+  {
+    "titolo": "Impostor",
+    "autore": "Philip K. Dick",
+    "anno": 1953,
+    "saga": null,
+    "voto": 3
+  },
+  {
+    "titolo": "Modello Due",
+    "autore": "Philip K. Dick",
+    "anno": 1953,
+    "saga": null,
+    "voto": 3.5
+  },
+  {
+    "titolo": "Ricordiamo per voi",
+    "autore": "Philip K. Dick",
+    "anno": 1966,
+    "saga": null,
+    "voto": 3.75
+  },
+  {
+    "titolo": "La formica elettrica",
+    "autore": "Philip K. Dick",
+    "anno": 1969,
+    "saga": null,
+    "voto": 2
+  },
+  {
+    "titolo": "Oltre l'invisibile",
+    "autore": "Clifford D. Simak",
+    "anno": 1951,
+    "saga": null,
+    "voto": null
   }
 ]
